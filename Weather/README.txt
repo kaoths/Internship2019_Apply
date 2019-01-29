@@ -21,3 +21,5 @@ Reference ของเว็บไซต์ที่ใช้ในการศ�
 	- ค้นหา Exception ในกรณีที่เปิดไฟล์ไม่สำเร็จ
 5. https://stackoverflow.com/questions/510348/how-can-i-make-a-time-delay-in-python
 	- ศึกษา library time เพื่อใช้ในการทำ delay 
+6. https://docs.python.org/3/library/json.html
+	- ศึกษา method dumps ใน library jason เพื่อทำ pretty printing
