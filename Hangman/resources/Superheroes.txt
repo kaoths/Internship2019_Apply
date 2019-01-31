@@ -3,3 +3,13 @@ Captain America, Leader of The Avenger
 Aquaman, The ocian master
 Ironman,Rich and Clever
 Thor,Son of Odin
+Batman,Dark Knight
+Spiderman,He shoots web
+Vision,Mind stone
+The Hulk,Green giant
+Doctor Strange,Time stone
+Antman,A tiny one
+Black Panther,King of Wakanda
+Wonder Woman,Truth Lasso
+Green Lantern,Power of Will
+The Flash,Fastest man alive

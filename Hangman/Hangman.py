@@ -90,4 +90,7 @@ while True:
         output()
     print("Do you wish to continue playing?[Y/N]: ", end = "")
     x = input().strip().upper()
-    if x != "Y": break
+    if x != "Y":
+        print("Exiting game...")
+        __import__("time").sleep(1)
+        break

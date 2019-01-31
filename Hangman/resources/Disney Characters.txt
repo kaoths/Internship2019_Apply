@@ -3,3 +3,10 @@ Cinderella,Glass shoes
 Donald Duck,Poultry in sailer suit
 Alice,Wonderland
 Snow White,Seven Dwarfs
+Pinocchio,Cannot lie
+Winnie the Pooh,Love honey
+Mufasa,The lion king
+Rapunzel,Very long long hair
+Princess Elena,Ruler of Avalor
+Mulan,Female Warrior
+Buzz Lightyear,Toy story
